@@ -1,7 +1,7 @@
 Conceptual fun in C++20
 =======================
 
-This week I was reviewing one of my libraries that I had made to interface C++ and Lua code, helping make C++ classes available to Lua code.
+This week I was reviewing one of my libraries - [manualbind](https://github.com/merlinblack/manualbind) - that I had made to interface C++ and Lua code, helping make C++ classes available to Lua code.
 
 One of the techniques I had used is based on on a 2015 paper for implementing template detection, which allows you to specialise a template depending on the existence of a member function for example. 
 
